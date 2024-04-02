@@ -13,12 +13,12 @@ Among the criterias a user can choose from:
 
 We use ***Selenium*** to scrape job postings from the Indeed website, and ***Tkinter*** (along with ***customtkinter***) to build an easy-to-use interface.  
 
-Below is a snippet of the interface. 
+Below is a snippet of the interface:
 
 ![alt text](interface.png)
 
-Users can choose to receive the job offers by mail by clicking on the checkbox, then saving the criteria selected. 
+Users can choose to receive the job offers by mail by clicking on the checkbox, saving the criteria selected, and finally clicking on the send job alerts button. Confirmations indicating the successfull saving of the criteria and sending of the jobs by mail will appear along the way. 
 
-![alt text](interface_after_clicking.png)
+![alt text](interface_after_clicking.png) 
 
 # Next Step
