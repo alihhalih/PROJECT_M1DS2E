@@ -20,5 +20,3 @@ Below is a snippet of the interface:
 Users can choose to receive the job offers by mail by clicking on the checkbox, saving the criteria selected, and finally clicking on the send job alerts button. Confirmations indicating the successfull saving of the criteria and sending of the jobs by mail will appear along the way. 
 
 ![alt text](interface_after_clicking.png) 
-
-# Next Step
