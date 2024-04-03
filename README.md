@@ -9,7 +9,7 @@ Among the criterias a user can choose from:
 
 - **City and Postal Code** 
 
-- **Remote work** : users can choose between completely remote jobs, to jobs allowing only partial or occasional remote work. 
+- **Remote work** : users can choose between completely remote jobs, and jobs allowing only partial or occasional remote work. 
 
 We use ***Selenium*** to scrape job postings from the Indeed website, and ***Tkinter*** (along with ***customtkinter***) to build an easy-to-use interface (among other packages of course) 
 
