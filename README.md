@@ -18,9 +18,10 @@ Users can interact with the interface to search for jobs matching their criteria
 
 ![image](https://github.com/alihhalih/PROJECT_M1DS2E/assets/161328112/5eb11a21-3a84-4b86-9c5c-78db9896e065)
 
-Furthermore, users can choose to receive the job offers by email by clicking on the checkbox. When this action is completed, a new part of the interface will reveal itself. Users can then save their criteria, and click on the 'send jobs by mail' button. 
+Furthermore, users can choose to receive the job offers by email. Indeedm wheb the checkbox is clicked, a new part of the interface will reveal itself, allowing users to receive jobs by email.
 
-![image](https://github.com/alihhalih/PROJECT_M1DS2E/assets/161328112/44b69bf3-0174-40ae-8e8e-0f9e57f59ce2)
+![image](https://github.com/alihhalih/PROJECT_M1DS2E/assets/161328112/18e6c7cb-5e92-475e-95b2-282d7d2c645e)
+
 
 And here is a snippet of the email format that is sent to users:
 ![image](https://github.com/alihhalih/PROJECT_M1DS2E/assets/161328112/40f62a4b-d278-471e-8cdf-8a7ba016a32d)
